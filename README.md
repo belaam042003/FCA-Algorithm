@@ -5,6 +5,9 @@ Grupo:
 Team Rui
 
 Integrantes: 
+
 Camilo Lopez
+
 Isabella Ardila
+
 Kevin Garcia
