@@ -1,6 +1,6 @@
+
 from model.Model import Model
 from view.View import View
-
 
 
 class Controller:
@@ -11,7 +11,3 @@ class Controller:
     def saludar(self):
         saludo = self.modelo.obtener_saludo()
         self.vista.mostrar_saludo(saludo)
-
-if __name__ == "__main__":
-    controlador = Controller()
-    controlador.saludar()
