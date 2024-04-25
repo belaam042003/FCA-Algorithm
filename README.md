@@ -1,10 +1,14 @@
-# Proyecto de Sistemas Inteligentes 
+# Proyecto de Sistemas Inteligentes Grupo Team Rui: 
+ 
+Camilo Lopez
 
-#Algoritmo seleccionado
+Isabella Ardila
 
-Fungi colony algorithm
+Kevin Garcia
 
-#Problema: 
+Algoritmo seleccionado - Fungi colony algorithm
+
+Problema: 
 
 En el mundo competitivo de la logística y el transporte de mercancías, la eficiencia en la gestión de rutas es clave para el éxito operativo y financiero de las empresas de envíos. El desafío consiste en diseñar rutas que minimicen costos, reduzcan tiempos de entrega y maximicen la capacidad de carga, todo mientras se garantiza una distribución eficiente de los productos.
 
@@ -12,11 +16,4 @@ El problema se complica con variables como la demanda fluctuante, restricciones 
 
 Para abordar esto, se utilizan métodos avanzados de optimización, como el Algoritmo de Colonias Fúngicas (FCA). Estos algoritmos inteligentes permiten diseñar rutas más eficientes y adaptativas, mejorando la competitividad en el mercado y el servicio al cliente. En esta presentación, exploraremos cómo el FCA se ha convertido en una herramienta poderosa para optimizar rutas de envío y lograr resultados significativos.
 
-#Grupo Team Rui: 
-#Integrantes: 
 
-Camilo Lopez
-
-Isabella Ardila
-
-Kevin Garcia
