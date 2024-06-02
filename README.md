@@ -16,4 +16,23 @@ El problema se complica con variables como la demanda fluctuante, restricciones 
 
 Para abordar esto, se utilizan métodos avanzados de optimización, como el Algoritmo de Colonias Fúngicas (FCA). Estos algoritmos inteligentes permiten diseñar rutas más eficientes y adaptativas, mejorando la competitividad en el mercado y el servicio al cliente. En esta presentación, exploraremos cómo el FCA se ha convertido en una herramienta poderosa para optimizar rutas de envío y lograr resultados significativos.
 
+Como se debe de ejecutar?
+- Se corre desde la carpeta main, el archivo main.py
+
+Carpetas que hay
+- Data: Se encuentra el DataFrame que fue seleccionado de una empresa transportadora de paquetes.
+- Docs: En esta carpeta se encuentran cuatro carpetas
+	- corte1: Se encuentra la primer reseña que realizamos acerca del FCA
+	- corte2: Se encuentra la presentación del algoritmo y su respectivo articulo
+	- corte3: Se encuentra la presentacion final del algoritmo solucionando la problematica y el articulo final
+	- references: Se encuentra un documento sobre el cual nos basamos y sacamos infromación de alli
+- Src: En esta carpeta ahi cuatro carpetas:
+	- controller: Esta la clase graph_controller.py la cual 
+	- main:
+	- model:
+	- view:
+- Results:
+
+
+
 
