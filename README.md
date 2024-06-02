@@ -26,12 +26,8 @@ Carpetas que hay
 	- corte2: Se encuentra la presentación del algoritmo y su respectivo articulo
 	- corte3: Se encuentra la presentacion final del algoritmo solucionando la problematica y el articulo final
 	- references: Se encuentra un documento sobre el cual nos basamos y sacamos infromación de alli
-- Src: En esta carpeta ahi cuatro carpetas:
-	- controller: Esta la clase graph_controller.py la cual 
-	- main:
-	- model:
-	- view:
-- Results:
+- Src: En esta carpeta ahi cuatro carpetas con el respectivo modelo vista controlador del algoritmo de hongos simplifacdo con grafos.
+- Results:Estan los resultados de las ejecuciones en imagenes
 
 
 
